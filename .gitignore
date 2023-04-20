@@ -133,3 +133,6 @@ dmypy.json
 
 #Mac OS files
 .DS_Store
+
+# others
+notebooks/.ipynb_checkpoints

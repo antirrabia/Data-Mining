@@ -1,7 +1,7 @@
 ﻿# Machine Learning Repository for High-Performing Classification and Regression Models
-Welcome to my GitHub repository dedicated to developing state-of-the-art supervised machine learning algorithms for classification and regression tasks. My primary focus is on achieving excellent scores in Kaggle.com competitions, where I strive to push the boundaries of model performance. 
+Welcome to my GitHub repository dedicated to developing state-of-the-art supervised machine learning algorithms for classification and regression tasks. My primary focus is on achieving excellent scores in Kaggle.com competitions, where I strive to push the boundaries of model performance.
 
-Join me on this exciting journey of developing high-performing classification and regression models. Let's unlock the full potential of supervised learning and make our mark in the Kaggle.com competitions. Happy coding and may our models achieve excellence!
+Join me on this exciting journey of developing high-performing classification and regression models. Let's unlock the full potential of supervised learning and make our mark in Kaggle.com competitions. Happy coding, and may our models achieve excellence!
 
 ---
 

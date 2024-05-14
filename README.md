@@ -7,8 +7,11 @@ Join me on this exciting journey of developing high-performing classification an
 
 ### Classification
 
-> **Titanic** - A Classification problem on this data set. I have tried some best practices. I developed 3 models of increasing complexity.
-**Skills:** Data wrangling and cleaning | Feature engineering | Model training and evaluation | Hyperparameter tuning | Ensemble learning | **Accomplishments:** Developed my own functions to create new features using domain knowledge. | Used IterativeImputer and KNNImputer to impute missing values. | Tuned hyperparameters using GridSearchCV. | Improved my functions into transformers using FunctionTransformer. | Used SimpleImpute with different strategies for numeric and categorical features. | Improved my own transformers and included the Cabin feature.
+> **Titanic** - A classification problem on this dataset. I have implemented some best practices, developing three models of increasing complexity.
+
+> **Skills:** Data wrangling and cleaning | Feature engineering | Model training and evaluation | Hyperparameter tuning | Ensemble learning. 
+
+> **Accomplishments:** Developed custom functions to create new features based on domain knowledge. | Utilized IterativeImputer and KNNImputer to handle missing values. | Tuned hyperparameters using GridSearchCV. | Enhanced my functions into transformers using FunctionTransformer. | Employed SimpleImpute with different strategies for numeric and categorical features. | Improved my custom transformers, incorporating the Cabin feature.
  - [Basic](https://nbviewer.jupyter.org/github/antirrabia/DataMining-_-/blob/main/notebooks/Titanic_01.ipynb) - wrote my own functions to create new features and code them using domain knowledge. After having all the features coded, I use `IterativeImputer` and `KNNImputer`. I tried different parameters for `imputation_order` and `n_neighbors`. I created a main `Pipeline` and a `GridSearchCV` to tune hyper-parameters. 
  - [02](https://nbviewer.jupyter.org/github/antirrabia/DataMining-_-/blob/main/notebooks/Titanic_02.ipynb) - I improved and turned my functions into transformers using `FunctionTransformer` which I then used in `FeatureUnion` . This time I wanted to try `SimpleImpute` and the strategies of `mean`, `median`, `constant`, `most_frequent` for numeric features and `most_frequent` for categorical features. 
  - [03](https://nbviewer.jupyter.org/github/antirrabia/DataMining-_-/blob/main/notebooks/Titanic_03.ipynb) - I improved my own transformers. This time, I included and coded the `Cabin` feature, which I didn't use in the previous 2 procedures. I use `IterativeImputer` and `KNNImputer`. I tried different parameters for `imputation_order` and `n_neighbors` .  
